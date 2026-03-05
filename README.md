@@ -1,2 +1,2 @@
 # cadastro-de-funcion-rios
-Java project developed to practice Object-Oriented Programming concepts. The system registers employees, stores them in a list, searches by ID and allows salary increases based on a percentage.  Concepts used: OOP, encapsulation, constructors, ArrayList, loops and methods.
+JProjeto em Java desenvolvido para praticar conceitos de Programação Orientada a Objetos. O sistema cadastra funcionários, armazena seus dados em uma lista, permite buscas por ID e concede aumentos salariais com base em uma porcentagem. Conceitos utilizados: POO, encapsulamento, construtores, ArrayList, loops e métodos.
